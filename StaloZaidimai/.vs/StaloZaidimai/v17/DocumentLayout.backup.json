@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E8A46-7065-4FA7-A112-A59E62133D7B}|StaloZaidimai\\StaloZaidimai.csproj|c:\\xampp\\htdocs\\stalozaidimai\\stalozaidimai\\stalozaidimai\\controllers\\registartioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0E8A46-7065-4FA7-A112-A59E62133D7B}|StaloZaidimai\\StaloZaidimai.csproj|solutionrelative:stalozaidimai\\controllers\\registartioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E8A46-7065-4FA7-A112-A59E62133D7B}|StaloZaidimai\\StaloZaidimai.csproj|c:\\xampp\\htdocs\\stalozaidimai\\stalozaidimai\\stalozaidimai\\naudotoja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0E8A46-7065-4FA7-A112-A59E62133D7B}|StaloZaidimai\\StaloZaidimai.csproj|solutionrelative:stalozaidimai\\naudotoja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E8A46-7065-4FA7-A112-A59E62133D7B}|StaloZaidimai\\StaloZaidimai.csproj|c:\\xampp\\htdocs\\stalozaidimai\\stalozaidimai\\stalozaidimai\\stalo-zaidimai-frontend\\src\\components\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CA0E8A46-7065-4FA7-A112-A59E62133D7B}|StaloZaidimai\\StaloZaidimai.csproj|solutionrelative:stalozaidimai\\stalo-zaidimai-frontend\\src\\components\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0E8A46-7065-4FA7-A112-A59E62133D7B}|StaloZaidimai\\StaloZaidimai.csproj|c:\\xampp\\htdocs\\stalozaidimai\\stalozaidimai\\stalozaidimai\\controllers\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0E8A46-7065-4FA7-A112-A59E62133D7B}|StaloZaidimai\\StaloZaidimai.csproj|solutionrelative:stalozaidimai\\controllers\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Naudotoja.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\StaloZaidimai\\Naudotoja.cs",
+              "RelativeDocumentMoniker": "StaloZaidimai\\Naudotoja.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\StaloZaidimai\\Naudotoja.cs",
+              "RelativeToolTip": "StaloZaidimai\\Naudotoja.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:54:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\StaloZaidimai\\Controllers\\EmailService.cs",
+              "RelativeDocumentMoniker": "StaloZaidimai\\Controllers\\EmailService.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\StaloZaidimai\\Controllers\\EmailService.cs",
+              "RelativeToolTip": "StaloZaidimai\\Controllers\\EmailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:54:34.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistartionController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\StaloZaidimai\\Controllers\\RegistartionController.cs",
+              "RelativeDocumentMoniker": "StaloZaidimai\\Controllers\\RegistartionController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\StaloZaidimai\\Controllers\\RegistartionController.cs",
+              "RelativeToolTip": "StaloZaidimai\\Controllers\\RegistartionController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:35:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\StaloZaidimai\\stalo-zaidimai-frontend\\src\\components\\Register.js",
+              "RelativeDocumentMoniker": "StaloZaidimai\\stalo-zaidimai-frontend\\src\\components\\Register.js",
+              "ToolTip": "C:\\xampp\\htdocs\\StaloZaidimai\\StaloZaidimai\\StaloZaidimai\\stalo-zaidimai-frontend\\src\\components\\Register.js",
+              "RelativeToolTip": "StaloZaidimai\\stalo-zaidimai-frontend\\src\\components\\Register.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T17:25:55.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

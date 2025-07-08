@@ -1,0 +1,6 @@
+@StaloZaidimai_HostAddress = http://localhost:5244
+
+GET {{StaloZaidimai_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
